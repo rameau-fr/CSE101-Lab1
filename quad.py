@@ -7,7 +7,7 @@ c = 1
 x1 = ... # TODO: write a code to compute the first root of the quadratic equation
 x2 = ... # TODO: then do the same for the second root
 # Note: Make sure to remove the ellipsis (...) when you're writing your code
-
+test = 1
 print("First root:" + str(x1))
 print("Second root:" + str(x2))
 
